@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="PALABRAAA" />
         <p className="description">
-          hola
+          Que no se puede evitar, eludir o detener.
+          Ejemplo de uso: el inexorable paso del tiempo
         </p>
       </main>
 
