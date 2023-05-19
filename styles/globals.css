@@ -17,7 +17,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 150% auto;
+  margin: 1em;
 }
 
 code {
