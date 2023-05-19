@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="PALABRAAA" />
+        <Header title="VELEIDOSO,VELEIDOSA" />
         <p className="description">
           Que no se puede evitar, eludir o detener.
           Ejemplo de uso: el inexorable paso del tiempo
