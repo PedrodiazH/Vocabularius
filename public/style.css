@@ -1,1 +1,38 @@
+@font-face {
+  font-family: "Rocher";
+  src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+}
+@font-palette-values --Purples {
+  font-family: Rocher;
+  base-palette: 6;
+}
+@font-palette-values --Mint {
+  font-family: Rocher;
+  base-palette: 7;
+}
 
+html {
+  font-family: "Roboto", sans-serif;
+  overflow: hidden;
+}
+
+#palabra {
+  font-family: "Roboto";
+  /* font-palette: --Mint; */
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  font-size: 320%;
+}
+#definicion {
+  text-align: center;
+  width: 100vw;
+}
+#uso {
+  text-align: center;
+  width: 100vw;
+}
+
+h1 {
+  margin: 0;
+}
